@@ -156,7 +156,7 @@ const Resorts = () => {
       <input
         type="text"
         placeholder="Search Resorts"
-        className="input input-bordered input-secondary rounded-none w-full max-w-xs"
+        className="flex items-center justify-center mx-auto input input-bordered input-secondary rounded-none w-full max-w-xs"
         value={search}
         onChange={handleSearchItem}
       />

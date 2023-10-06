@@ -44,8 +44,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a className="btn m-auto  btn-ghost  normal-case text-xl">
-          {" "}
+        <a className=" m-auto    normal-case text-xl">
           <img
             className="w-[180px]"
             src="https://i.ibb.co/DgfTrrn/Blue-Simple-Beach-Palm-Tree-Coast-Logo-Template.png"
